@@ -38,7 +38,7 @@ a:hover { color: ##0000ee; }
 a:active { color: #551a8b; }
 
 img {
-  width: 100px;
+  width: 150px;
   height: auto;
   object-fit: contain;
 }
