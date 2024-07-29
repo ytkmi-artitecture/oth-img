@@ -36,3 +36,9 @@ a:link { color: #0000ee; }
 a:visited { color: #ff0000; }
 a:hover { color: ##0000ee; }
 a:active { color: #551a8b; }
+
+img {
+  width: 150px;
+  height: auto;
+  object-fit: contain;
+}
